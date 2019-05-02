@@ -6,7 +6,7 @@ A mock to use the azure bus service in spring boot applications, with this libra
 # Install
 Add the dependency
 
-```maven
+```xml
 <repositories>
     <repository>
         <id>jitpack.io</id>
@@ -17,7 +17,7 @@ Add the dependency
 <dependency>
     <groupId>com.github.NetoDevel</groupId>
     <artifactId>spring-boot-service-bus-mock</artifactId>
-    <version>1.0.0</version>
+    <version>0.0.1</version>
     <scope>test</scope>
 </dependency>
 ```
