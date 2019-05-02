@@ -18,7 +18,7 @@ Add the following dependency to your pom.xml file.
 <dependency>
     <groupId>com.github.NetoDevel</groupId>
     <artifactId>spring-boot-service-bus-mock</artifactId>
-    <version>0.0.1</version>
+    <version>0.1.1</version>
     <scope>test</scope>
 </dependency>
 ```
